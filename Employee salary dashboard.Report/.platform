@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Employee salary dashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "04e8ac1a-cd68-4c87-8aad-9b26c57bf34f"
+  }
+}

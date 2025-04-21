@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Employee salary dashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7e8b214f-3d93-4dd5-9740-152c4ceeb75e"
+  }
+}
